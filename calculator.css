@@ -1,0 +1,38 @@
+.text{
+    text-align: center;
+    color: brown;
+    padding-top: 20px;
+}
+
+.container{
+    background-color: rgb(36, 2, 68);
+    text-align: center;
+    margin: auto;
+    max-width: 30vw;
+}
+.display{
+    width: 94%;
+    height: 60px;
+    background-color: aliceblue;
+    border:5px solid rgb(78, 0, 151);
+    /* text-align: center; */
+    margin: auto;
+    margin-bottom: 30px ;
+    font-size: 5vh;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.row button{
+    width: 7vw;
+    height: 5vh;
+    background-color: rgb(78, 0, 151);
+    color: antiquewhite;
+    margin-bottom: 2vh;
+    border-radius: 5px;
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row .button-c{
+    width: 95%;
+}
